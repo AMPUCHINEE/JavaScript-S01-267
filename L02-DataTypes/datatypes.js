@@ -1,4 +1,4 @@
-const ppeople = ["Aaron","Mel","John"];
+const people = ["Aaron","Mel","John"];
 const one = 1;
 const str = "Hello World";
 const b = true;
